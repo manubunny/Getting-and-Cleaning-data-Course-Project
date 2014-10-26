@@ -36,7 +36,7 @@ Getting-and-Cleaning-data-Course-Project
 
 4.Loaded "activity_labels.txt" in R object and extracted the names from the data, 
    converted to lower case and used descriptive activity name to name the activities in the data set.
-
+   
 5. Binded tidy data together using cbind
 
 6. wrote  R object "tidy_data" in "tidy_data.txt" file.
@@ -44,5 +44,6 @@ Getting-and-Cleaning-data-Course-Project
 7. script calculates the number of subjects which is 30 and length of activities is 6
 
 8. named subjects and activities using for loop in tidy data and calculated average of each variable for each activity and each subject.
+
 9. wrote final to "final_data.txt" text file.
 

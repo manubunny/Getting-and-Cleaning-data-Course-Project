@@ -33,6 +33,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##### Below are column names in tidy data set.
 subject 
+
 activity 
 tbodyacc-mean-x 
 tbodyacc-mean-y 

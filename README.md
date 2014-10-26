@@ -28,9 +28,9 @@ Getting-and-Cleaning-data-Course-Project
 
 ##### Followed below flow to accomplish above:
 
-1.Downloaded and saved "UCI HAR Dataset" data in current working directory of R Studio manually.
+1.Downloaded and saved "UCI HAR Dataset" data in current working directory of R Studio manually
 
-2.R script merges training and test sets using rbind() for "X_test","X_train"and "y_test", "y_train" and "subject_test","subject_train".
+2. R script merges training and test sets using rbind() for "X_test","X_train"and "y_test", "y_train" and "subject_test","subject_train".
 
 3. Loaded "feautures.txt" in R object and extracted the names from the data and converted to lower case.
 

@@ -20,7 +20,7 @@ Getting-and-Cleaning-data-Course-Project
 
 2. Download and save "UCI HAR Dataset" data in current working directory of R Studio manually.
 
-3. Created new R script in working directory "run_analysis.R".
+3. Created new R script in working directory "run_analysis.R"
 
 4. Required text files are read from current working directory in R script.
 

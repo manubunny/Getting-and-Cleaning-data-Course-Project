@@ -28,22 +28,22 @@ Getting-and-Cleaning-data-Course-Project
 
 ##### Followed below flow to accomplish above:
 
-1. Downloaded and saved "UCI HAR Dataset" data in current working directory of R Studio manually.
+1.Downloaded and saved "UCI HAR Dataset" data in current working directory of R Studio manually.
 
-2. R script merges training and test sets using rbind() for "X_test","X_train"and "y_test", "y_train" and "subject_test","subject_train".
+2.R script merges training and test sets using rbind() for "X_test","X_train"and "y_test", "y_train" and "subject_test","subject_train".
 
-3.Loaded "feautures.txt" in R object and extracted the names from the data and converted to lower case.
+3. Loaded "feautures.txt" in R object and extracted the names from the data and converted to lower case.
 
-4.Loaded "activity_labels.txt" in R object and extracted the names from the data, 
+4. Loaded "activity_labels.txt" in R object and extracted the names from the data, 
    converted to lower case and used descriptive activity name to name the activities in the data set.
-   
-5. Binded tidy data together using cbind
 
-6. wrote  R object "tidy_data" in "tidy_data.txt" file.
+5.Binded tidy data together using cbind
 
-7. script calculates the number of subjects which is 30 and length of activities is 6
+6.wrote  R object "tidy_data" in "tidy_data.txt" file.
 
-8. named subjects and activities using for loop in tidy data and calculated average of each variable for each activity and each subject.
+7.Script calculates the number of subjects which is 30 and length of activities is 6
 
-9. wrote final to "final_data.txt" text file.
+8.named subjects and activities using for loop in tidy data and calculated average of each variable for each activity and each subject.
+
+9.wrote final to "final_data.txt" text file.
 

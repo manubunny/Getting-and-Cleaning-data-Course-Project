@@ -185,7 +185,7 @@ fbodybodygyrojerkmag-std
 "final_data.txt"
 
 
-Followed below flow to accomplish above:
+##### Followed below flow to accomplish above:
 
 1. Downloaded and saved "UCI HAR Dataset" data in current working directory of R Studio manually.
 

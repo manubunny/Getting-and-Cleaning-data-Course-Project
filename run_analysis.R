@@ -53,6 +53,6 @@ for(s in 1:lenSubjects){
   }
 }
 
-write.table(final,"final_data.txt")
+write.table(final,"final_data.txt",row.names=FALSE)
 
 
